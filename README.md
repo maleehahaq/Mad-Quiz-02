@@ -16,4 +16,7 @@ In **firebase.js** file add your firebase configuration object. The steps to obt
 1. Clone directory or download ZIP to extract folder
 2. Use powershell or VS code terminal to goto the project directory
 3. Run command "npm install" (It will install the necessary packages of package.json file)
-4. Run command "expo start"
+4. Run command "npm install @tensorflow/tfjs @tensorflow-models/qna"
+5. Run command "npm install @react-navigation/native @react-navigation/bottom-tabs"
+6. Run command "npm install @tensorflow/tfjs @tensorflow/tfjs-react-native"
+7. Run command "npx expo start"
